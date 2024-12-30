@@ -1,5 +1,5 @@
-![Screenshot 2024-12-30 150329](https://github.com/user-attachments/assets/a158044f-9a0d-4090-9678-d3e72e2ec0b7)
 # Student Assignment Score Tracker
+![Screenshot 2024-12-30 150329](https://github.com/user-attachments/assets/a158044f-9a0d-4090-9678-d3e72e2ec0b7)
 Description
 
 The Student Assignment Score Tracker is a Windows Forms (or WPF) application designed to input, display, and manage students' assignment scores. This program leverages arrays to store both student information (single-dimensional array) and assignment scores (multi-dimensional array) efficiently. The application ensures user-friendly interaction by validating inputs, providing error labels for invalid inputs, and preventing common program crashes.
