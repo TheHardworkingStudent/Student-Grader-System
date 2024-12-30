@@ -72,19 +72,3 @@ Common Issues Addressed
     Validated navigation within the bounds of the student and assignment arrays.
     Properly formatted the display of grades, averages, and letter grades.
     XML comments provided for all classes, attributes, and methods.
-
-Future Improvements
-
-    Enhance formatting of the score display to handle long student names more gracefully.
-    Add additional user feedback or tooltips for a better user experience.
-    Expand functionality to export scores to a file (e.g., CSV or text).
-
-License
-
-This project is created as part of an academic assignment and may not be used for commercial purposes without prior permission.
-Screenshots
-
-(Add screenshots of the application here if available.)
-Author
-
-Developed by [Your Name] as part of a class assignment on Windows Forms/WPF programming.
